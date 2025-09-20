@@ -7,15 +7,15 @@
 
 # 👋 Hi there, I'm Naveen Verma
 
-Welcome to this GitHub profile! 🚀  [web:1]
-I love building, learning, and sharing knowledge about **programming, problem solving, and tech**.  [web:1]
+Welcome to this GitHub profile! 🚀  
+I love building, learning, and sharing knowledge about **programming, problem solving, and tech**.
 
 ---
 
 ## 🚀 About Me
-- 🎓 BCA student exploring the world of **Programming languages,CyberSecurit,Mathematics and Web Development.**  [web:1]
-- 💡 Passionate about **algorithms, logic building, and full-stack development**  [web:1]
-- 🏋️ Balancing **fitness + coding discipline** daily  [web:1]
+- 🎓 BCA student exploring the world of **Programming languages,CyberSecurit,Mathematics and Web Development.**
+- 💡 Passionate about **algorithms, logic building, and full-stack development**
+- 🏋️ Balancing **fitness + coding discipline** daily
 
 ---
 
@@ -25,14 +25,14 @@ I love building, learning, and sharing knowledge about **programming, problem so
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-</p>  [web:1]
+</p>
 
 ---
 
 ## 🌱 What I'm Learning
-- Data Structures & Algorithms 🧩  [web:1]
-- Web Development 🌐  [web:1]
-- Programming Languages 🤝  [web:1]
+- Data Structures & Algorithms 🧩
+- Web Development 🌐
+- Programming Languages 🤝
 
 ---
 
@@ -40,20 +40,20 @@ I love building, learning, and sharing knowledge about **programming, problem so
 <details>
 <summary>💡 Click to reveal some fun facts</summary>
 
-- Treating coding like gym training – discipline > motivation 💪  [web:1]
-- Keyboard shortcuts are a superpower ⚡  [web:1]
-- Always down to debug code at 2 AM 🌙  [web:1]
+- Treating coding like gym training – discipline > motivation 💪  
+- Keyboard shortcuts are a superpower ⚡  
+- Always down to debug code at 2 AM 🌙  
 
 </details>
 
 ---
 
 ## 📫 Connect With Me
-<p align="center:
+<p align="center">
   <a href="https://www.linkedin.com/in/naveen-verma-084071386">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin"/>
   </a>
   <a href="mailto:work.naveenverma@gmail.com">
     <img src="https://img.shields.io/badge/Email-red?style=flat&logo=gmail&logoColor=white"/>
   </a>
-</p>  [web:1]
+</p>
