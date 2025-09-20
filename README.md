@@ -13,7 +13,7 @@ I love building, learning, and sharing knowledge about **programming, problem so
 ---
 
 ## 🚀 About Me
-- 🎓 BCA student exploring the world of **Programming languages,CyberSecurit,Mathematics and Web Development.**  
+- 🎓 BCA student exploring the world of **Programming languages,CyberSecurity,Mathematics and Web Development.**  
 - 💡 Passionate about **algorithms, logic building, and full-stack development**  
 - 🏋️ Balancing **fitness + coding discipline** daily  
 
