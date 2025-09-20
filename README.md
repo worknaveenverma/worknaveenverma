@@ -13,21 +13,9 @@ I love building, learning, and sharing knowledge about **programming, problem so
 ---
 
 ## 🚀 About Me
-- 🎓 BCA student exploring the world of **Programming languages,CyberSecurity,Mathematics and Web Development.**  
+- 🎓 BCA student exploring the world of **Programming languages,CyberSecurit,Mathematics and Web Development.**  
 - 💡 Passionate about **algorithms, logic building, and full-stack development**  
 - 🏋️ Balancing **fitness + coding discipline** daily  
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=worknaveenverma&show_icons=true&theme=radical" alt="GitHub Stats" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=worknaveenverma&theme=radical" alt="GitHub Streak" height="180px"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=worknaveenverma&layout=compact&theme=radical" alt="Top Languages" />
-</p>
 
 ---
 
